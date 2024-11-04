@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppProductos</string>
+    <string name="Dismiss">Cancelar</string>
+    <string name="Confirm">Confirmar</string>
+</resources>
